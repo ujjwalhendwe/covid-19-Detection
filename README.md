@@ -8,7 +8,6 @@ Name of the contributors: Ujjwal Hendwe & Anshika Verma
 About the project: 
 
 In the middle of a global pandemic, when everything seems confusing and uncertain, we made an attempt to make things a little easier. It is very important to keep an eye on the symptoms and to get ourselves diagnosed on time. When we go for a covid test we have to stand in long queues for hours which increases the chances of getting infected.
-
           The motive of this project is to provide you with a facility that helps you to predict whether you are infected by covid or not at your home being in your comfort zone. All you have to do is to upload your PA view chest x-ray and that’s it, with a few clicks you’ll be able to predict the results with great accuracy. The basic yet informative interface of our website plays a vital role in eliminating the confusion and chaos. We provide great accuracy because of our highly analyzed ML model.
 
 Project Repo: https://github.com/UAceIt-Winter-of-Mentorship/Covid-Detection
